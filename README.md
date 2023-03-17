@@ -1,1 +1,0 @@
-# Interactive-Point-of-Sale-Management-System-with-integrated-C.R.U.D-design
